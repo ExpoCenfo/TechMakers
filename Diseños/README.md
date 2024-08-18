@@ -31,7 +31,6 @@ El control fue creado con un enfoque especial en la experiencia infantil. Los co
 ### **Imagen del Control**
 <p align="center">
   <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/1.jpg" alt="Imagen del Control" width="30%" />
-  <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/8.png" alt="Imagen 2" width="30%" />
   <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/9.png" alt="Imagen 3" width="30%" />
 </p>
 
