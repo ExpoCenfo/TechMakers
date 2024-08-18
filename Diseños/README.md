@@ -21,7 +21,5 @@ El control ha sido diseñado para ser intuitivo y accesible para niños. A trav�
 El control fue creado con un enfoque especial en la experiencia infantil. Los colores, la forma y los materiales utilizados están pensados para ser atractivos y seguros para los niños, fomentando un entorno de juego educativo y divertido.
 
 ### **Imagen del Control**
-*(Espacio para la imagen del control)*
-```markdown
-![Imagen del Control](D:\Usuarios\Gabriela Urbina\Documents\Fotos-Techmaker/1.png) (D:\Usuarios\Gabriela Urbina\Documents\Fotos-Techmaker/2.png)
-```
+![Imagen del Control](https://drive.google.com/file/d/1q4TUaxvQabIVni8xdSaHrgtKzxA1Xkop/view?usp=sharing)
+
