@@ -31,3 +31,23 @@ El control fue creado con un enfoque especial en la experiencia infantil. Los co
 ### **Imagen del Control**
 ![Imagen del Control](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/1.jpg)
 
+## **Receptor del Juego Interactivo - El Carro**
+
+### **Descripción del Receptor**
+El carro es el encargado de recorrer la alfombra interactiva durante el juego. Su diseño se basa en el SumoBot de la Universidad Cenfotec, desarrollado por el Dr. Tomás de Camino Beck. Aunque su inspiración proviene de este modelo, hemos realizado modificaciones específicas para adaptarlo a las necesidades de nuestro proyecto.
+
+### **Modificaciones Realizadas**
+- **Parte Inferior del Carro:**
+  - Hemos realizado modificaciones en la parte inferior del carro para integrar un lector RFID. Este lector es esencial para la interacción con las tarjetas (stickers) colocadas en la alfombra.
+  
+- **Integración del RFID:**
+  - **Funcionalidad:** Al pasar por las tarjetas, el RFID se activa y permite desbloquear los niveles del juego. En cada nivel, los niños leerán un desafío que deben resolver, lo que añade una capa educativa al juego.
+  - **Prototipo:** Actualmente, este es un prototipo funcional que soporta un solo juego. Sin embargo, la visión a largo plazo es que esta plataforma pueda evolucionar para ofrecer reportes de avances y logros de cada niño, accesibles para los padres.
+
+### **Futuras Implementaciones**
+- **Reporte de Avances:**
+  - El objetivo es que en futuras versiones del juego, los padres puedan acceder a reportes detallados de los avances y logros de sus hijos, lo que permitiría un seguimiento más cercano del proceso educativo y lúdico.
+
+### **Imagen del Carro**
+![Imagen del Carro](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/4.jpg)
+
