@@ -29,7 +29,11 @@ El control ha sido diseñado para ser intuitivo y accesible para niños. A trav�
 El control fue creado con un enfoque especial en la experiencia infantil. Los colores, la forma y los materiales utilizados están pensados para ser atractivos y seguros para los niños, fomentando un entorno de juego educativo y divertido.
 
 ### **Imagen del Control**
-![Imagen del Control](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/1.jpg)
+<p align="center">
+  <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/1.jpg" alt="Imagen del Control" width="30%" />
+  <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/8.png" alt="Imagen 2" width="30%" />
+  <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/9.png" alt="Imagen 3" width="30%" />
+</p>
 
 
 ## **Receptor del Juego Interactivo - El Carro**
