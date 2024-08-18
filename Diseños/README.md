@@ -51,5 +51,6 @@ El carro es el encargado de recorrer la alfombra interactiva durante el juego. S
 
 ### **Imagen del Carro**
 ![Imagen del Carro](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/4.jpg)
+(https://github.com/ExpoCenfo/TechMakers/blob/main/Img/7.jpg)
 
 
