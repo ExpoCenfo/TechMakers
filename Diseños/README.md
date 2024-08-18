@@ -1,4 +1,4 @@
-# **Brief de las Piezas del Prototipo**
+# **Prototipo**
 
 ## **Control del Juego Interactivo**
 
@@ -13,6 +13,14 @@ El control del juego interactivo es una de las piezas clave en nuestro proyecto.
 2. **Borde Impreso en 3D:**
    - **Propósito:** El borde de la caja está impreso en 3D y sirve para asegurar la estructura de acrílico. Además, proporciona un agarre cómodo y seguro para las manos pequeñas de los niños.
    - **Importancia:** Este borde no solo refuerza la caja, sino que también contribuye a la ergonomía del control, asegurando que los niños puedan manipularlo fácilmente sin riesgos.
+
+3. **Joystick:**
+   - **Propósito:** El joystick permite a los jugadores mover el robot a través de la alfombra interactiva, controlando su dirección en tiempo real.
+   - **Importancia:** Este componente es crucial para la interacción del juego, permitiendo que los niños participen activamente en la resolución de los desafíos en la alfombra.
+
+4. **Placa Ideaboard (Emisora):**
+   - **Propósito:** Esta placa es responsable de transmitir las señales del joystick al robot en la alfombra mediante la comunicación ESPNOW.
+   - **Importancia:** La placa Ideaboard actúa como el cerebro del control, enviando los comandos del jugador al robot para que realice las acciones deseadas.
 
 ### **Utilidad e Importancia del Control**
 El control ha sido diseñado para ser intuitivo y accesible para niños. A través de este dispositivo, los jugadores pueden interactuar con la alfombra y el robot, tomando decisiones en tiempo real durante el juego. La transparencia de la caja de acrílico permite que los niños se familiaricen con los componentes electrónicos, promoviendo el interés en la tecnología y la ingeniería desde una edad temprana.
