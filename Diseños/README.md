@@ -43,6 +43,7 @@ El carro es el encargado de recorrer la alfombra interactiva durante el juego. S
 - **Integración del RFID:**
   - **Funcionalidad:** Al pasar por las tarjetas, el RFID se activa y permite desbloquear los niveles del juego. En cada nivel, los niños leerán un desafío que deben resolver, lo que añade una capa educativa al juego.
   - **Prototipo:** Actualmente, este es un prototipo funcional que soporta un solo juego. Sin embargo, la visión a largo plazo es que esta plataforma pueda evolucionar para ofrecer reportes de avances y logros de cada niño, accesibles para los padres.
+  - ![Sensor RFID](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/6.jpeg)
 
 ### **Futuras Implementaciones**
 - **Reporte de Avances:**
@@ -50,4 +51,5 @@ El carro es el encargado de recorrer la alfombra interactiva durante el juego. S
 
 ### **Imagen del Carro**
 ![Imagen del Carro](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/4.jpg)
+
 
