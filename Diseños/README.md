@@ -28,14 +28,11 @@ El control ha sido diseñado para ser intuitivo y accesible para niños. A trav�
 ### **Diseño Inspirado en Niños**
 El control fue creado con un enfoque especial en la experiencia infantil. Los colores, la forma y los materiales utilizados están pensados para ser atractivos y seguros para los niños, fomentando un entorno de juego educativo y divertido.
 
-### **Imagen del Control**
-![Ilustración](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/7.jpg)
-
 ## **Receptor del Juego Interactivo - El Carro**
 
 ### **Descripción del Receptor**
 El carro es el encargado de recorrer la alfombra interactiva durante el juego. Su diseño se basa en el SumoBot de la Universidad Cenfotec, desarrollado por el Dr. Tomás de Camino Beck. Aunque su inspiración proviene de este modelo, hemos realizado modificaciones específicas para adaptarlo a las necesidades de nuestro proyecto.
-(https://github.com/ExpoCenfo/TechMakers/blob/main/Img/7.jpg)
+![Ilustración 1](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/7.jpg)
 ### **Modificaciones Realizadas**
 - **Parte Inferior del Carro:**
   - Hemos realizado modificaciones en la parte inferior del carro para integrar un lector RFID. Este lector es esencial para la interacción con las tarjetas (stickers) colocadas en la alfombra.
