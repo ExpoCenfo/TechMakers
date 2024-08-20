@@ -38,7 +38,7 @@ El control fue creado con un enfoque especial en la experiencia infantil. Los co
 ## **Receptor del Juego Interactivo - El Carro**
 
 ### **Descripción del Receptor**
-El carro es el encargado de recorrer la alfombra interactiva durante el juego. Su diseño se basa en el SumoBot de la Universidad Cenfotec, desarrollado por el Dr. Tomás de Camino Beck. Aunque su inspiración proviene de este modelo, hemos realizado modificaciones específicas para adaptarlo a las necesidades de nuestro proyecto.
+El carro es el encargado de recorrer el tablero interactiva durante el juego. Su diseño se basa en el SumoBot de la Universidad Cenfotec, desarrollado por el Dr. Tomás de Camino Beck. Aunque su inspiración proviene de este modelo, hemos realizado modificaciones específicas para adaptarlo a las necesidades de nuestro proyecto.
 ![Ilustración 1](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/7.jpg)
 ### **Modificaciones Realizadas**
 - **Parte Inferior del Carro:**
