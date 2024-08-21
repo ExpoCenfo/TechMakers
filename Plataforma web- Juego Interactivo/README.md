@@ -12,12 +12,13 @@ Nuestro objetivo es equilibrar el uso de la tecnología con actividades físicas
 ### **Pantalla de Inicio del Juego**
 Esta es la pantalla de inicio donde los jugadores comienzan su experiencia interactiva.
 
-![Wireframe 7 - Pantalla de Inicio](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%207.png)
+<img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%207.png" alt="Wireframe 7" width="300"/>
+
 
 ### **Registro de Equipos**
 Aquí los equipos pueden registrar sus nombres antes de comenzar el juego.
 
-![Wireframe 8 - Registro de Equipos](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%208.png)
+<img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%208.png" alt="Wireframe 8" width="300"/>
 
 ## **Primer Juego: El Secreto de la Luz Blanca**
 
