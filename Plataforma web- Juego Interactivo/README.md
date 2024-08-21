@@ -30,3 +30,8 @@ Este primer juego está diseñado para enseñar a los niños sobre el espectro v
 - ![Wireframe 5](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%205.png)
 - ![Wireframe 6](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%206.png)
 
+## ** Juegos Creado para esta Demostración**
+Los juegos que creamos para esta demostración fueron confeccionados gracias al valioso apoyo del Ing. Christian Sibaja Fernández, Ph.D., un experto en educación con énfasis en mediación pedagógica. Con una sólida formación en sistemas informáticos y educación, el Dr. Sibaja ha sido clave en la incorporación de elementos pedagógicos que hacen que nuestros desafíos no solo sean entretenidos, sino también profundamente educativos.
+
+## **Visión Futuro**
+Nuestra visión a futuro es adaptar la plataforma y el tablero interactivo a las necesidades de la comunidad estudiantil, proporcionando una herramienta efectiva para enseñar y capacitar a los docentes en la implementación de la metodología STEAM en las aulas. El objetivo es que los maestros puedan usar nuestro tablero para crear desafíos personalizados que motiven y eduquen a los estudiantes de manera innovadora.
