@@ -26,12 +26,12 @@ Aquí los equipos pueden registrar sus nombres antes de comenzar el juego.
 Este primer juego está diseñado para enseñar a los niños sobre el espectro visible de la luz. A medida que avanzan por los desafíos, aprenderán sobre cómo la luz blanca se descompone en diferentes colores. A continuación se muestran los wireframes que detallan este proceso:
 
 <div style="display: flex;">
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%201.png" alt="Wireframe 1" width="150"/>
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%202.png" alt="Wireframe 2" width="150"/>
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%203.png" alt="Wireframe 3" width="150"/>
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%204.png" alt="Wireframe 4" width="150"/>
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%205.png" alt="Wireframe 5" width="150"/>
-    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%206.png" alt="Wireframe 6" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%201.png" alt="Wireframe 1" width="500"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%202.png" alt="Wireframe 2" width="500"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%203.png" alt="Wireframe 3" width="500"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%204.png" alt="Wireframe 4" width="500"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%205.png" alt="Wireframe 5" width="500"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%206.png" alt="Wireframe 6" width="500"/>
 </div>
 
 ## **Juegos Creado para esta Demostración**
