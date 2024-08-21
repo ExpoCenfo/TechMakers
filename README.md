@@ -32,7 +32,7 @@ Cada miembro del equipo ha aportado su experiencia única para dar vida a este p
 - **Gabriela Urbina:** Experta en dispositivos IoT, lideró el área de los robots, integrando la tecnología necesaria para la interacción con el tablero y el resto del sistema.
 
 ## **Desarrollo y Pruebas**
-El desarrollo del juego incluyó varias etapas de diseño, programación y pruebas. Hemos llevado a cabo pruebas piloto en entornos educativos, donde se evaluó la efectividad del juego para promover el aprendizaje colaborativo y el desarrollo de habilidades STEAM. Los resultados han sido muy positivos, con alta participación de los jugadores y retroalimentación valiosa para futuras mejoras.
+El desarrollo del juego incluyó varias etapas de diseño, programación y pruebas. 
 
 ## **Impacto y Futuro**
 Nuestro objetivo es expandir este proyecto a más escuelas y comunidades, asegurándonos de que sea accesible para todos los niños, independientemente de su entorno o recursos. Creemos que esta herramienta tiene el potencial de cambiar la forma en que se enseñan y se aprenden las disciplinas STEAM, haciendo que la educación sea más inclusiva, emocionante y efectiva.
