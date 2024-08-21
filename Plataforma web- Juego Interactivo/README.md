@@ -12,7 +12,7 @@ Nuestro objetivo es equilibrar el uso de la tecnología con actividades físicas
 ### **Pantalla de Inicio del Juego**
 Esta es la pantalla de inicio donde los jugadores comienzan su experiencia interactiva.
 
-<img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%207.png" alt="Wireframe 7" width="45%"/> <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%208.png" alt="Wireframe 8" width="45%"/>
+<img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%207.png" alt="Wireframe 7" width="500"/>
 
 
 
