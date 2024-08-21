@@ -25,12 +25,14 @@ Aquí los equipos pueden registrar sus nombres antes de comenzar el juego.
 
 Este primer juego está diseñado para enseñar a los niños sobre el espectro visible de la luz. A medida que avanzan por los desafíos, aprenderán sobre cómo la luz blanca se descompone en diferentes colores. A continuación se muestran los wireframes que detallan este proceso:
 
-- ![Wireframe 1](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%201.png)
-- ![Wireframe 2](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%202.png)
-- ![Wireframe 3](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%203.png)
-- ![Wireframe 4](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%204.png)
-- ![Wireframe 5](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%205.png)
-- ![Wireframe 6](https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%206.png)
+<div style="display: flex;">
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%201.png" alt="Wireframe 1" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%202.png" alt="Wireframe 2" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%203.png" alt="Wireframe 3" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%204.png" alt="Wireframe 4" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%205.png" alt="Wireframe 5" width="150"/>
+    <img src="https://github.com/ExpoCenfo/TechMakers/blob/main/Img/Wireframe%20-%206.png" alt="Wireframe 6" width="150"/>
+</div>
 
 ## **Juegos Creado para esta Demostración**
 Los juegos que creamos para esta demostración fueron confeccionados gracias al valioso apoyo del Ing. Christian Sibaja Fernández, Ph.D., un experto en educación con énfasis en mediación pedagógica. Con una sólida formación en sistemas informáticos y educación, el Dr. Sibaja ha sido clave en la incorporación de elementos pedagógicos que hacen que nuestros desafíos no solo sean entretenidos, sino también profundamente educativos.
